@@ -1,0 +1,10 @@
+node_modules/ 
+.next/ 
+.env 
+.env.local
+client/.env.local
+uploads/*.jpg 
+uploads/*.jpeg 
+uploads/*.png 
+dist/ 
+build/ 
